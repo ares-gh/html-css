@@ -1,2 +1,2 @@
 # html-css
-Future repo for all my projects using HTML & CSS.
+Repo for all my web projects.
